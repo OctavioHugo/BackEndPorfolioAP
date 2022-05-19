@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: Porfolio
+Implementation-Version: 0.0.1-Mi version
+Created-By: Maven Integration for Eclipse
+
